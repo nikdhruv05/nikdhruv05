@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsdhruvgupta1" target="blank"><img src="https://img.shields.io/twitter/follow/itsdhruvgupta1?logo=twitter&style=for-the-badge" alt="itsdhruvgupta1" /></a> </p>
 
-- 🔭 I’m currently working as an intern on **ERP System**
+- 🔭 I’m currently working as an intern on **ERP Software**
 
 - 🌱 I’m currently learning DSA and MERN Stack **Reactjs, MongoDB, Expressjs, Nodejs.**
 
