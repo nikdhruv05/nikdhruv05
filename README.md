@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsdhruvgupta1" target="blank"><img src="https://img.shields.io/twitter/follow/itsdhruvgupta1?logo=twitter&style=for-the-badge" alt="itsdhruvgupta1" /></a> </p>
 
-- 🔭 I’m currently working as an intern on **ERP Software**
+- 🔭 I’ve worked as an intern on **ERP Software**
 
 - 🌱 I’m currently learning DSA and MERN Stack **Reactjs, MongoDB, Expressjs, Nodejs.**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **kumardhruv05112002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wRccN71ZvhJHSD6UCYb7lp2Yot8z5wZr/view?usp=drive_link](https://drive.google.com/file/d/1wRccN71ZvhJHSD6UCYb7lp2Yot8z5wZr/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wRccN71ZvhJHSD6UCYb7lp2Yot8z5wZr/view?usp=drive_link](https://drive.google.com/file/d/1TfRZvPxqCuNKcUsDRY5CkypxbWQGVuTQ/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm sensible and funny😅**
 
